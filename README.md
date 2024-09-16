@@ -1,6 +1,7 @@
 # Microsoft Azure - Localizando Serviços por Categoria
 
-## Teste
+## Laboratório da trilha de Introdução a Cloud com Azure do Bootcamp XP Inc na DIO:
+
 
 O hub inicial é o mesmo para todos.
 O que pode acontecer é ser ao usar algum recurso caso esteja sem créditos.
